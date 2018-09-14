@@ -62,13 +62,13 @@
 .sections li{
     display: block;
     float: left;
-    width:27%;
+    width:30%;
     margin: 0;
     margin: 4px;
-    margin-left:0;
+    margin-left:5px;
     -webkit-box-shadow: -1px 0px 29px 3px rgba(0, 0, 0, 0.29);
-            -moz-box-shadow: -1px 0px 29px 3px rgba(0, 0, 0, 0.29);
-            box-shadow: -1px 0px 29px 3px rgba(0, 0, 0, 0.29);
+    -moz-box-shadow: -1px 0px 29px 3px rgba(0, 0, 0, 0.29);
+    box-shadow: -1px 0px 29px 3px rgba(0, 0, 0, 0.29);
     
  
 }
@@ -99,7 +99,7 @@ figcaption{
     overflow: hidden;
     height:230px;
     padding-top: 25px;
-    border-style: groove;
+    
   
   
 }
@@ -107,8 +107,7 @@ figcaption{
     width: 90%;
     height: 80%;
     transform: scale(1.1);
-   
-    
+  
 }
 
 .foot{
